@@ -15,5 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 var soobeom = "soobeom"
+    
+    var test = "test"
 }
 
